@@ -10,7 +10,7 @@ Topics:
 ### Routes
 
   * Run `npm init` to create your `package.json` file.
-  * Install `express` with `npm i --save express`
+  * Install `express` and `body-parser` with `npm i --save express body-parser`
   * Create your server file called `server.js`.
   * Import `express` and create your `app`.
   * Set your `app` to listen on port 3000 and then write a `'/'` route that returns `'Hello World!'`;
